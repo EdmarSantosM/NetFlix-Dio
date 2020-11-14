@@ -62,3 +62,7 @@ header nav a:hover{ /* Ao passar  o ponteiro  do mouse altera a cor */
 .filme-principal .descricao {
     margin-bottom: 90px;
 }
+
+.titulo{
+    font-size: 45px;
+}
