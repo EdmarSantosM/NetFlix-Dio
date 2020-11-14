@@ -1,2 +1,2 @@
 # NetFlix-Dio
- Recriando a página  da NetFlix
+Recriando a interface do Netflix
