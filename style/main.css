@@ -1,9 +1,23 @@
-body {
-       
+/* Definindo as  cores  mais utilizadas em variáveis*/
+:root{
+    --vermelhos:#0918e5e8;
+    --preta:#141414;
+    
 }
 
+/* Resetando  as  configurações padrão do  CSS*/
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body{
+    background:  var(--preta);
+
+}
+
+
+header .container{
+   
 }
