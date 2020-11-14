@@ -86,3 +86,7 @@ header nav a:hover{ /* Ao passar  o ponteiro  do mouse altera a cor */
     color: black;
 }
 
+.botao i{
+    margin-right: 8px;
+}
+
