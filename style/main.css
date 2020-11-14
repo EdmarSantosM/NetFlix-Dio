@@ -12,6 +12,7 @@
     box-sizing: border-box;
 }
 
+/* Elementos base */
 body{
     background:  var(--preta);
     font-family: 'Times New Roman', Times, serif;
@@ -41,4 +42,14 @@ header nav a{
 
 header nav a:hover{ /* Ao passar  o ponteiro  do mouse altera a cor */
     color: #fff;
+}
+
+/* filme principal */
+
+.filme-principal{
+    font-size: 16px;
+    background: url('../img/os_100_02.jpg');
+
+    height: 400px;
+    background-size: cover;
 }
