@@ -90,3 +90,13 @@ header nav a:hover{ /* Ao passar  o ponteiro  do mouse altera a cor */
     margin-right: 8px;
 }
 
+/* wrapper = envelopar */
+
+.container{
+    margin-left: 30px;
+}
+
+.filme-principal .container{
+    width: 70%;
+
+}
