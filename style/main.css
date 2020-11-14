@@ -48,7 +48,7 @@ header nav a:hover{ /* Ao passar  o ponteiro  do mouse altera a cor */
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/os_100_02.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa_004.jpg');
 
     height: 400px;
     background-size: cover;
@@ -56,4 +56,5 @@ header nav a:hover{ /* Ao passar  o ponteiro  do mouse altera a cor */
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: flex-start;
 }
